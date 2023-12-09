@@ -1,2 +1,3 @@
 # RISCV32i_edu
-This is based on Yifan Xu's project, which provided the groundwork for this repository.
+This is based on Yifan Xu  project, which provided the groundwork for this repository.
+https://github.com/yifax/RISC-V-PipeLine
